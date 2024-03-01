@@ -1,0 +1,9 @@
+<?php
+
+$namaLengkap.=.$_GET["nama_lengkap"]:
+$username.=.$-GET["username"]
+$password.=.$-GET["password"]
+
+echo."<hi>selamat.{namalengkap}. kamu sudah terdaftar</hi>";
+echo."<h3>username.:{$username}</h3>";
+echo>."<h3>password.:{password}</h3>";
